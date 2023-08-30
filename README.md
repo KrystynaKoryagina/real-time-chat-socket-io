@@ -49,4 +49,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Deployed via [Netlify](https://netlify.com)
 
-[Real-time chat](https://netlify.com](https://shimmering-travesseiro-6f181b.netlify.app)https://shimmering-travesseiro-6f181b.netlify.app)
+[Real-time chat](https://shimmering-travesseiro-6f181b.netlify.app)
